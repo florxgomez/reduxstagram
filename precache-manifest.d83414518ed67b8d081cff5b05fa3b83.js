@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "43d1548d76527b8bd599baf578300e0a",
+    "revision": "003f890b26981d430246bb8e9955f811",
     "url": "/reduxstagram/index.html"
   },
   {
-    "revision": "28ad5b8eed33c7d89fe7",
+    "revision": "c0bc342fa3aa51a25ae5",
     "url": "/reduxstagram/static/css/main.1860b041.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/reduxstagram/static/js/2.97898c50.chunk.js"
   },
   {
-    "revision": "28ad5b8eed33c7d89fe7",
-    "url": "/reduxstagram/static/js/main.2b8e3382.chunk.js"
+    "revision": "c0bc342fa3aa51a25ae5",
+    "url": "/reduxstagram/static/js/main.23551666.chunk.js"
   },
   {
     "revision": "da50dc848b10ff86348d",
