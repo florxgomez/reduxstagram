@@ -2,7 +2,9 @@
   "name": "myreduxstagram",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://florxgomez.github.io/reduxstagram",
   "dependencies": {
+    "gh-pages": "^2.1.1",
     "react": "^16.11.0",
     "react-addons-css-transition-group": "^15.6.2",
     "react-dom": "^16.11.0",
@@ -23,7 +25,9 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "styles:watch": "stylus -I ./node_modules -w ./src/styl -o ./src/css",
-    "styles": "stylus -I ./node_modules ./src/styl -o ./src/css"
+    "styles": "stylus -I ./node_modules ./src/styl -o ./src/css",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
