@@ -10,8 +10,8 @@ const App = () => {
     <Router>
     <Header />
       <Switch>
-      <Route exact path='/' component={home} />
-      <Route exact path="/view/:postId" component={Single} />
+      <Route exact path='https://florxgomez.github.io/reduxstagram/' component={home} />
+      <Route exact path="https://florxgomez.github.io/reduxstagram/view/:postId" component={Single} />
       </Switch>
     </Router>
   );
