@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cfc0f0c166c56b22a2e75dc87efab77d",
+    "revision": "a2ad94dd195b73b8bd6ecc6433a875f3",
     "url": "/reduxstagram/index.html"
   },
   {
