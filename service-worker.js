@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/reduxstagram/precache-manifest.68099a96a3042cdec355e97c1de70b5b.js"
+  "/reduxstagram/precache-manifest.d6173dcf199cb0374d750389db2250d5.js"
 );
 
 self.addEventListener('message', (event) => {
