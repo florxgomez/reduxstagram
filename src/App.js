@@ -6,12 +6,14 @@ import Header from "./components/Header";
 import home from './pages/home'
 
 const App = () => {
+  
+ 
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
     <Header />
       <Switch>
-      <Route exact path='https://florxgomez.github.io/reduxstagram/' component={home} />
-      <Route exact path="https://florxgomez.github.io/reduxstagram/view/:postId" component={Single} />
+      <Route exact path='/' component={home} />
+      <Route exact path="/view/:postId" component={Single} />
       </Switch>
     </Router>
   );
