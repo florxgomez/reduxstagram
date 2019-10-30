@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "003f890b26981d430246bb8e9955f811",
+    "revision": "86f46364c4cbb644ff3ce69fc8db1feb",
     "url": "/reduxstagram/index.html"
   },
   {
-    "revision": "c0bc342fa3aa51a25ae5",
-    "url": "/reduxstagram/static/css/main.1860b041.chunk.css"
+    "revision": "688dd42c3bbef13b9be6",
+    "url": "/reduxstagram/static/css/main.ba94ce7c.chunk.css"
   },
   {
     "revision": "6e7e2ce88ef03ffc59a3",
     "url": "/reduxstagram/static/js/2.97898c50.chunk.js"
   },
   {
-    "revision": "c0bc342fa3aa51a25ae5",
+    "revision": "688dd42c3bbef13b9be6",
     "url": "/reduxstagram/static/js/main.23551666.chunk.js"
   },
   {
